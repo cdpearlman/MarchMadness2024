@@ -27,3 +27,6 @@ to be team1, and their opponents to be team2. Since team1 contained the top 64 o
 team1 usually wins, which explains why the model predicted by rank, as I placed the higher ranked team in team1. To repeat this model, I 
 should randomly assign teams during scraping to either team1 or team2, so the model will learn based off metrics, not simply which team 
 was higher ranked.
+
+Update 3:
+I randomized the assignment of team1 and team2, and results seem much less biased. This model is now ready for further testing.
