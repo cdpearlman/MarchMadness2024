@@ -1,0 +1,92 @@
+Using standard_scaling 
+Num Components: 5 
+NN Test Accuracy: 0.7038 
+XGBoost Test Accuracy: 0.6967 
+Num Components: 6 
+NN Test Accuracy: 0.6967 
+XGBoost Test Accuracy: 0.7038 
+Num Components: 7 
+NN Test Accuracy: 0.6422 
+XGBoost Test Accuracy: 0.7014 
+Num Components: 8 
+NN Test Accuracy: 0.6517 
+XGBoost Test Accuracy: 0.6943 
+Num Components: 9 
+NN Test Accuracy: 0.6280 
+XGBoost Test Accuracy: 0.6564 
+Num Components: 10 
+NN Test Accuracy: 0.6114 
+XGBoost Test Accuracy: 0.6588 
+Num Components: 11 
+NN Test Accuracy: 0.6398 
+XGBoost Test Accuracy: 0.6564 
+Num Components: 12 
+NN Test Accuracy: 0.6493 
+XGBoost Test Accuracy: 0.6327 
+Num Components: 13 
+NN Test Accuracy: 0.6185 
+XGBoost Test Accuracy: 0.6564 
+Num Components: 14 
+NN Test Accuracy: 0.6422 
+XGBoost Test Accuracy: 0.6611 
+Num Components: 15 
+NN Test Accuracy: 0.6374 
+XGBoost Test Accuracy: 0.6564 
+Num Components: 16 
+NN Test Accuracy: 0.6351 
+XGBoost Test Accuracy: 0.6469 
+Num Components: 17 
+NN Test Accuracy: 0.6398 
+XGBoost Test Accuracy: 0.6564 
+Num Components: 18 
+NN Test Accuracy: 0.6256 
+XGBoost Test Accuracy: 0.6611 
+Num Components: 19 
+NN Test Accuracy: 0.6351 
+XGBoost Test Accuracy: 0.6564 
+Using normalization 
+Num Components: 5 
+NN Test Accuracy: 0.6919 
+XGBoost Test Accuracy: 0.7204 
+Num Components: 6 
+NN Test Accuracy: 0.6872 
+XGBoost Test Accuracy: 0.7227 
+Num Components: 7 
+NN Test Accuracy: 0.6801 
+XGBoost Test Accuracy: 0.7251 
+Num Components: 8 
+NN Test Accuracy: 0.6896 
+XGBoost Test Accuracy: 0.7180 
+Num Components: 9 
+NN Test Accuracy: 0.6919 
+XGBoost Test Accuracy: 0.7227 
+Num Components: 10 
+NN Test Accuracy: 0.6943 
+XGBoost Test Accuracy: 0.7251 
+Num Components: 11 
+NN Test Accuracy: 0.6872 
+XGBoost Test Accuracy: 0.7133 
+Num Components: 12 
+NN Test Accuracy: 0.6896 
+XGBoost Test Accuracy: 0.6991 
+Num Components: 13 
+NN Test Accuracy: 0.6777 
+XGBoost Test Accuracy: 0.7156 
+Num Components: 14 
+NN Test Accuracy: 0.6896 
+XGBoost Test Accuracy: 0.7204 
+Num Components: 15 
+NN Test Accuracy: 0.6896 
+XGBoost Test Accuracy: 0.7156 
+Num Components: 16 
+NN Test Accuracy: 0.6825 
+XGBoost Test Accuracy: 0.7299 
+Num Components: 17 
+NN Test Accuracy: 0.6754 
+XGBoost Test Accuracy: 0.7180 
+Num Components: 18 
+NN Test Accuracy: 0.6896 
+XGBoost Test Accuracy: 0.7014 
+Num Components: 19 
+NN Test Accuracy: 0.6872 
+XGBoost Test Accuracy: 0.7227 
